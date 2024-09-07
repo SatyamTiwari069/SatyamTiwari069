@@ -81,7 +81,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SatyamTiwari069/SatyamTiwari069/output/snake.svg" alt="Snake animation" />
-
-###
